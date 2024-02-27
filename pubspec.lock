@@ -115,6 +115,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.8.3"
+  responsive_mpa_web:
+    dependency: "direct main"
+    description:
+      name: responsive_mpa_web
+      sha256: cb8481fd1393cde65f918ec5597a0692f7b0f80d31603e73763e86cadb9f2bd8
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.4"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -186,3 +194,4 @@ packages:
     version: "0.1.4-beta"
 sdks:
   dart: ">=3.1.5 <4.0.0"
+  flutter: ">=2.5.0"
